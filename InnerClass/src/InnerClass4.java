@@ -9,7 +9,7 @@ public class InnerClass4 {
 
 class Demo1{
 
-    void m1(){
+    void m1(){dd
 
         System.out.println("Core2Web");
 
